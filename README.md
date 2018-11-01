@@ -1,6 +1,9 @@
 ## 预览
 ### 官网实践
-![](art/preview.png)
+![](art/preview1.png)
 
 ### ListView
-![](art/preview1.png)
+![](art/preview2.png)
+
+### RichText
+![](art/richText.png)
