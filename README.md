@@ -7,3 +7,6 @@
 
 ### RichText
 ![](art/richText.png)
+
+### AppBar
+![](videos/appbar.mp4)
