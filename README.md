@@ -9,4 +9,4 @@
 ![](art/richText.png)
 
 ### AppBar
-![](videos/appbar.mp4)
+![](art/appbar.png)
